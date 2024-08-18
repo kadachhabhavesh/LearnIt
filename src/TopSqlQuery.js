@@ -53,9 +53,9 @@ export default () => {
     <div className="w-full px-4 py-6 sm:px-6 md:px-10 lg:px-20">
       <div className="w-full flex flex-col gap-4 mb-6">
         <header className="text-3xl md:text-4xl font-bold text-center">Most Asked SQL Interview Queries</header>
-        <p className="text-base md:text-lg font-semibold text-justify">
-          SQL (Structured Query Language) is a critical skill for database management and manipulation. For those preparing for SQL interviews or aiming to sharpen their SQL skills, it's essential to understand various types of queries. This article presents a selection of SQL queries that are commonly asked in interviews, along with explanations to help you grasp the underlying concepts.
-        </p>
+        // <p className="text-base md:text-lg font-semibold text-justify">
+        //   SQL (Structured Query Language) is a critical skill for database management and manipulation. For those preparing for SQL interviews or aiming to sharpen their SQL skills, it's essential to understand various types of queries. This article presents a selection of SQL queries that are commonly asked in interviews, along with explanations to help you grasp the underlying concepts.
+        // </p>
       </div>
       <div className="w-full flex flex-col gap-6">
         {data && data.map((question, index) => (
