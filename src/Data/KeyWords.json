@@ -1,0 +1,3 @@
+[
+    "SELECT", "FROM", "WHERE", "GROUP", "BY", "HAVING", "ORDER", "JOIN", "INNER", "LEFT", "RIGHT", "FULL", "OUTER", "UNION", "ALL", "DISTINCT", "AS", "AND", "OR", "NOT", "IN", "BETWEEN", "LIKE", "EXISTS", "EXCEPT", "INTERSECT"
+  ]
